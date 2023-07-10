@@ -1,5 +1,5 @@
 
-import contactsService from "./db/contact.js";
+import contactsService from "./contact.js";
 
 import {program} from "commander";
 
